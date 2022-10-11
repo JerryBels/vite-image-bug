@@ -1,0 +1,24 @@
+{
+  "resources/images/logo.png": {
+    "file": "assets/logo.855756de.png",
+    "src": "resources/images/logo.png"
+  },
+  "resources/images/local_icon.png": {
+    "file": "assets/local_icon.10583dee.png",
+    "src": "resources/images/local_icon.png"
+  },
+  "resources/images/favicon.ico": {
+    "file": "assets/favicon.89023b7e.ico",
+    "src": "resources/images/favicon.ico"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app.7c3c19f8.js",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app.7c828056.js",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  }
+}
